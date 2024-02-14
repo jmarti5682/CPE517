@@ -94,7 +94,7 @@ $$\ $$
 
 $$\begin{align}
 Execution \ Time_2 &= \frac{1.0 \times 10^6 \times 2.0}{3.0 \times 10^9} \\
-&= 6.67 \times 10^{-3} \ s \\
+&= 6.67 \times 10^{-4} \ s \\
 Execution \ Time_2 &= 0.667 \ ms
 \end{align}$$
 
